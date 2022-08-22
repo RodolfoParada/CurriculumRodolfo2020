@@ -1,0 +1,11 @@
+
+
+#293462   azul
+#D61C4E   rojo
+#FEB139   naranjo
+#FFF80A   amarillo 
+
+#5f6b93 encabezado
+
+#c6c6c5 letras
+
